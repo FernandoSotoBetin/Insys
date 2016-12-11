@@ -1,0 +1,22 @@
+Base De Datos - Sistema De Inventario
+
+Scripts_Inventario(1).sql:
+  >Se encuetra la creación y eliminación del esquema de la base de datos inventario.
+
+Scripts_Inventario(2).sql:
+  >Se encuetra el script final, todas las entidades del sistema y registro de datos.
+
+EstructuraDB.xlsx:
+  >Archivo de excel donde se encuentra el modelo y campos de las entidades.
+
+Carpeta Modelo Relacional:
+  >En esta carpeta se encuentra los modelos relacionales de sistema de inventario en formatos .PDF y .mwb de MYSQL Workbench.
+
+Carpeta Modulos:
+  >En esta carpeta se localizan los scripts .SQL de creación, eliminación de tablas e inserción y consulta de datos generalizados por modulos.
+
+Carpeta Recursos:
+    >En esta carpeta se encuentra un .PNG  de ejemplo de modulos del sistema de inventarios.
+
+______< By Ingeniero Fernando Soto Betin >______
+______<      Barranquilla - Colombia     >______
